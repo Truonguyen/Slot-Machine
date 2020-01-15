@@ -1,5 +1,4 @@
 //info doc: https://docs.google.com/document/d/16NLNY-AGeofnpPYgyE-3smV9kC6HRt3GVmEwmDkOLEM/edit?usp=sharing
-//this is just a work in progress--does not work yet
 
 import java.util.*;
 import javax.swing.JOptionPane;
@@ -10,9 +9,6 @@ import javax.swing.JOptionPane;
 //        james davie
 //        truong nguyen
 //        rebekah salsburg
-//    date written : //.//.19
-//    exam 1 - charlie goes to vegas
-
 public class TestClass {
 
     public static void main(String[] args) {
